@@ -5,8 +5,7 @@
 * [Business Goal](#business-goal)
 * [Files](#files)
 * [Libraries](#libraries)
-* [Conclusions](#conclusions)
-
+* [Observation](#observations)
 
 ## General Information
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.  The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not. 
@@ -30,6 +29,15 @@ You are required to model the price of houses with the available independent var
 
 ## Observations:
 
-Using Lasso and Ridge Regulaziation tech
+Using Lasso and Ridge Regulaziation techniques and sampling size of 75% (training data), the following are the most important features that are used to predict the price:
 
-## Conclusion:
+1. Total Square Footage
+2. Total Rooms above Grade
+3. Size of garage in car capacity
+4. Size of garage in square feet
+5. Number of fireplaces
+6. Lot size in square feet
+7. Neighborhood
+8. Linear feet of street connected to property
+9. Should have Central air conditioning
+1-. Type of roof
