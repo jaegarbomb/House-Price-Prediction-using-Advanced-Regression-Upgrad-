@@ -19,6 +19,7 @@ You are required to model the price of houses with the available independent var
 
 ## Files: 
 - **train.csv** : the main data source
+- **data_description** : Data Dictionary explaining the features
 - **House Price Prediction.ipynb** : The notebook containing the model for the predicting the price.
 
 ## Libraries:
@@ -40,4 +41,4 @@ Using Lasso and Ridge Regulaziation techniques and sampling size of 75% (trainin
 7. Neighborhood
 8. Linear feet of street connected to property
 9. Should have Central air conditioning
-1-. Type of roof
+10. Type of roof
